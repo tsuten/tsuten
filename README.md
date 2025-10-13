@@ -1,14 +1,29 @@
-## Hi there 👋
+<h1 align="center"><b>Hi there! </b>👋</h1>
+I speak Japanese fluently, and English at a certain level.
 
-**tsuten/tsuten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects I'm currently working on
+- luminode
 
-Here are some ideas to get you started:
+### Contact me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### Development Environment
+- ubuntu
+- vscode
+### Tech
+#### Languages
+##### can use fluently
+- Python
+- JavaScript
+##### can use at a certain level
+- TypeScript
+- Java
+#### Other Tools
+- HTML
+- CSS
+  - TailwindCSS
+#### Notable Libraries
+- Django and its ecosystem...
+  - Django Ninja
+  - Django Channels
+  - Django Unicorn
+- Svelte
