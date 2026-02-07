@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi there! </b>👋</h1>
-I speak Japanese natively, and English a little bit.
+I do web development.
 
 ## What I can do
 ### Tech that I can't live without
@@ -28,3 +28,4 @@ I speak Japanese natively, and English a little bit.
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white) (my favorite browser <333)
 
 ## Contact me!
+Contact me on Telegram: [t.me/itstsuten](https://t.me/itstsuten)
