@@ -1,5 +1,4 @@
-<h1 align="center"><b>Hi there! </b>👋</h1>
-I do web development.
+<h1 align="center"><b>Hi</b>👋</h1>
 
 ## What I can do
 ### Tech that I can't live without
@@ -26,6 +25,3 @@ I do web development.
 ![Warp](https://img.shields.io/badge/warp-%2301A4FF?style=for-the-badge&logo=warp&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white) (my favorite browser <333)
-
-## Contact me!
-Contact me on Telegram: [t.me/itstsuten](https://t.me/itstsuten)
