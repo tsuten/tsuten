@@ -7,5 +7,5 @@ My bookmark manager tool is under development.
 Please take a look if you're interested in it.  
 → https://leafee.app
 
-Make a visit to my personal website if you're interested in me personally.
+Make a visit to my personal website if you're interested in me personally.  
 → https://tsuten.me
